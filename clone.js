@@ -9,7 +9,6 @@ var outObj = {};
     }
  
  }
- 
  }
  return outObj;
 }
