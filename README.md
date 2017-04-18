@@ -6,9 +6,9 @@
 * [addingGlobalHeaderToXMLHttpRequest.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/addingGlobalHeaderToXMLHttpRequest.js) - A way to add header(s) to all the Ajax requests happening in an App.
 * [letInPlaceOfIIF.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/letInPlaceOfIIF.js) - A way to use 'let' so as to avoid use of Immediately Invoked Functions .
 * [countCharForNonBMP.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/countCharForNonBMP.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
-* [arrowFunctions.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/arrowFunctions.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
-* [computedPropertyName.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/computedPropertyName.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
-* [convertArgumentsIntoArray.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/convertArgumentsIntoArray.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
-* [spreadOperatorVsRestParameters.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/spreadOperatorVsRestParameters.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
-* [factorialWithTailCall.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/factorialWithTailCall.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
-* [superKeyWord.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/superKeyWord.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
+* [arrowFunctions.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/arrowFunctions.js) - A way on ES6 use Arrow functions.
+* [computedPropertyName.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/computedPropertyName.js) - A way on ES6 standards to add a computed value as a property in a JS Object.
+* [convertArgumentsIntoArray.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/convertArgumentsIntoArray.js) - A way to convert <i>arguments</i> into a well formed JS Array.
+* [spreadOperatorVsRestParameters.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/spreadOperatorVsRestParameters.js) - ES6 on <i>...</i> operator.
+* [factorialWithTailCall.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/factorialWithTailCall.js) - Tail calling in ES6.
+* [superKeyWord.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/superKeyWord.js) - ES6 spec to use <i>super</i> keyword in place of <i>.prototype</i> and avoid use of <i>this</i> as it is dynamic and risky if not handled carefully.
