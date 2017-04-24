@@ -54,5 +54,6 @@ Object.defineProperty(Object, Symbol.hasInstance,{
 
 //console.log({} instanceOf Object);
 
-
+//Symbol.for('krish') === Symbol.for('krish'); // true
+//Symbol('krish') === Symbol('krish'); // false
 

@@ -27,7 +27,7 @@ console.log(obj);
 let aSet = new Set([1,'1']);
 console.log(aSet.size);//2
 aSet.delete(1);
-console.log(aSet.size);//2
+console.log(aSet.size);//1
 aSet.delete("1");
 console.log(aSet.size);//0
 
