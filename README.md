@@ -16,6 +16,7 @@
 ### *Multilingual Strings*
 * [countCharForNonBMP.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/countCharForNonBMP.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
 
+
 ### *Arrow Functions*
 * this key word absent
 * [arrowFunctions.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/arrowFunctions.js) - A way on ES6 standards to find the number of characters present in a Multilingual string.
@@ -59,8 +60,4 @@
 
 ### Exporting and Importing
 * Not supported as of now?
-
-
-
-
 
