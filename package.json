@@ -1,0 +1,28 @@
+{
+  "name": "js_snippets",
+  "version": "1.0.0",
+  "description": "updates on ES6 mainly",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"http-server -a localhost -p 8000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishank-dubey/JS_Snippets.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "ecmascript"
+  ],
+  "author": "Ishank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishank-dubey/JS_Snippets/issues"
+  },
+  "dependencies": {
+    "http-server": "latest"
+  },
+  "homepage": "https://github.com/Ishank-dubey/JS_Snippets#readme"
+}

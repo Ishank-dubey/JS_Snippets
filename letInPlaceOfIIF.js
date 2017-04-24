@@ -1,3 +1,12 @@
+/*Hoisting of let vs var*/
+
+aVar = 1; // Error
+let aVar;
+
+aVar = 1; // OK
+var aVar;
+
+
 var aArry = [];
 
 for(var i=0;i<3;i++){

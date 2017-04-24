@@ -3,7 +3,7 @@
  */
 
 
-let PageHandler = {
+/*let PageHandler = {
 id: "123456",
 init: function() {
 document.addEventListener("click", function(event) {
@@ -17,7 +17,7 @@ console.log("Handling " + type + " for " + this.id);
 };
 
 
-PageHandler.init();
+PageHandler.init();*/
 
 /*
  * using the Arrow function to avoid the .bind
