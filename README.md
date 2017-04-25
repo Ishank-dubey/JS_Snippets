@@ -30,6 +30,9 @@
 ### Spread operator Vs Rest parameters 
 * [spreadOperatorVsRestParameters.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/spreadOperatorVsRestParameters.js)
 
+### Destructuring Objects and Arrays
+* [destructuringAndPropertyInitilizer.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/destructuringAndPropertyInitilizer.js)- Useful when there is nested data  
+
 ### Concept of the *Tail Call*
 * [factorialWithTailCall.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/factorialWithTailCall.js) - Basic discussion on Tails calls to improve performance in mainly a recurssive function.
 
