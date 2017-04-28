@@ -5,7 +5,7 @@
 * [blockScope.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/blockScope.js) - A way to ensure a block level of scope in a <i>for</i> loop.
 * [asyncBehaviour.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/asyncBehaviour.js) - A way to get async behaviour, callback and cancel method.
 * [addingGlobalHeaderToXMLHttpRequest.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/addingGlobalHeaderToXMLHttpRequest.js) - A way to add header(s) to all the Ajax requests happening in an App.
-*[reverStrInChunk.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/reverStrInChunk.js) - A way to reverse chunks in a given String
+* [reverStrInChunk.js](https://github.com/Ishank-dubey/JS_Snippets/blob/master/reverStrInChunk.js) - A way to reverse chunks in a given String
 ## ES 6 specific
 
 ### *let* keyword
