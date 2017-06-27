@@ -19,5 +19,5 @@ return 1*next;
    return tailCallFactorial(inputNumber-1, result);
 }
 }
-var fac = tailCallFactorial(5);
+var fac = tailCallFactorial(50);
 console.log(fac);
