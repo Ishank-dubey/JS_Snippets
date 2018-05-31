@@ -53,3 +53,14 @@ do
 done
 done
 echo ${allnames[@]}
+
+
+for file in $(ls ./${date1}/${OSS})
+do
+
+head -n1 "./${date1}/${OSS}/${file}" | sed -e 's/\(.*\)/\L\1/' | sed -e "s/ /_/g" | sed 's/[0-9][0-9]*/t_&/g'
+
+tail -n +3 "./${date1}/${OSS}/${file}"
+
+
+done
