@@ -1,0 +1,6 @@
+var input = jQuery(document.getElementsByName('zipCode')[0]);
+input.val(94099); 
+angular.element(document.getElementsByName('zipCode')[0]).scope().newShippingAddress.ZipCode = 94099;
+angular.element(document.getElementsByName('zipCode')[0]).scope().frm.$valid = true;
+input.trigger('input'); 
+input.trigger('change');
