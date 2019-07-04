@@ -11,3 +11,68 @@ return returnValue;
 console.log(fact(6));
 /*Factorial via Recursion End*/
 
+
+/*Adding element to the end of an Array*/
+var array = [1,2,3,4,5]; 
+array.push(6);
+
+/*Adding elements to the begining of an Array*/
+var array = [1,2,3,4,5]; 
+array.unshift(6);//can accept multiple arguments
+
+/*Removing elements from the end of an Array*/
+var array = [1,2,3,4,5]; 
+array.pop();
+
+/*Removing element from the begining of an Array*/
+var array = [1,2,3,4,5]; 
+array.shift();
+
+/*Adding elements to the middle of an Array*/
+var array = [1,2,3,4,5]; 
+array.splice(Math.floor((array.length-1)/2),0,10,11);
+
+
+/*Removing elements from the middle of an Array*/
+var array = [1,2,3,4,5]; 
+array.splice(Math.floor((array.length-1)/2),2,10,11);
+
+
+/*Ordering Alphabetic Array elements*/
+var array = ["David","Mike","Cynthia","Clayton","Bryan","Raymond"]; 
+array.sort();
+
+
+/*Ordering Array of numbers*/
+function test(a,b){
+return a-b
+}
+var array = [10,9,8,13,4,5]; 
+array.sort(test);
+
+/*Builtin Array iterators*/
+function test(a) { 
+console.log(a);
+}
+var nums = [1,2,3,4,5,6,7,8,9,10];
+nums.forEach(test);
+
+function test(a){
+   return a==0;
+}
+
+function retTest(a){
+return a == b;
+}
+var zeros = nums.every(retTest);
+var zeros = nums.some(retTest);
+
+function add(a,b){
+return a+b;
+}
+var array = [1,2,3,4,5,6,7,8,9,10];
+var total = array.reduce(add);//reduceRight(function(){}); available as well
+
+
+
+
