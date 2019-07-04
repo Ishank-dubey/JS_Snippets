@@ -1,0 +1,13 @@
+/*Factorial via Recursion Begin*/
+function fact (n){
+
+if(n==1){
+return n;
+}else {
+let returnValue = n* fact(n-1);
+return returnValue;
+}
+}
+console.log(fact(6));
+/*Factorial via Recursion End*/
+
