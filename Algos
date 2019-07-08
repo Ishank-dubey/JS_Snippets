@@ -81,3 +81,36 @@ var in = [77, 65, 81, 92, 83];
 var out = grades.map(map);
 
 
+/*Filter the Array*/
+var anarray = [1,2,4,5,6,7,8,9,10,11,12];
+var isEven = (ele) =>{return !(ele%2);}
+anarray.filter(isEven);
+console.log(anarray);
+
+/*List ADT implementation*/
+function List(){
+this.listSize = 0;
+this.pos = 0;
+this.dataStore = [];
+this.clear = clear;
+this.find = find;
+this.toString = toString;
+this.insert = insert;
+this.append = append; 
+this.remove = remove;
+this.front = front;
+this.end = end;
+this.prev = prev;
+this.next = next; 
+this.length = length;
+this.currPos = currPos; 
+this.moveTo = moveTo;
+this.getElement = getElement;
+this.length = length;
+this.contains = contains;
+function clear (){
+console.log(this)
+}
+}
+
+
